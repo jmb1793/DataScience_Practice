@@ -1,10 +1,9 @@
-### This Directory Contains Practice files for Data Structures and Algorithms using Python
+## This Directory Contains Practice files for Data Structures and Algorithms using Python
 
 These files include follow-alongs by:
--  Holczer Balazs
-- etc
+-  Data Structures and Algorithms with Python by Holczer Balazs on Udemy
 
-It Covers: 
+### It Covers: 
 
 #### Section 2 - Arrays:
 
